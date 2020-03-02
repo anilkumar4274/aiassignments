@@ -1,0 +1,53 @@
+Linear regression imp questions:
+
+1.what is linear regression ?
+ 
+2.Assumptions of linear regression ?
+
+ linear regression have five key assumptions:
+ 
+ 1.linear relationship
+ 2.multivariate normality
+ 3.No or little multicollinearity
+ 4.No auto-correlation
+ 5.Homoscedasticity.
+
+3.Normal Equation ?
+ 
+ Normal equations obtained by setting equal to zero the partial derivatives of the sum of squared errors(least squares).
+ normal equations allow one to estimate the parameters of a multiple linear regression.
+
+4.What happens when we move from simple linear regression to multiple linear regresion ?
+
+ it is also called simple linear regression.it estimates the relationship between two variables using a straight line.
+ if two or more explanatory variables have a linear relationship with the dependent variable,the regression is called multiple linear regression.
+
+5. What is Heteroscedasticity?
+  Heteroscedasticity is the exact opposite of homoscedasticity.
+  It entails that there is no equal distribution of the error terms. 
+  You use a log function to rectify this phenomenon.
+
+6. What is the primary difference between R square and adjusted R square?
+
+  In linear regression, you use both these values for model validation.
+  However, there is a clear distinction between the two. 
+  R square accounts for the variation of all independent variables on the dependent variable. 
+ In other words, it considers each independent variable for explaining the variation. 
+  In the case of Adjusted R square, it accounts for the significant variables alone for indicating the percentage of variation in the model.
+  By significant, we refer to the P values less than 0.05.
+
+7. Best fit line is also called ?
+  
+  Best fit line is also called as least square regression line.
+
+8. Which plot is best suited to test the linear relationship of independent and dependent continuous variables?
+   
+   The Scatter plot is the best way to determine the relationship between continuous variables.
+   You can find out how one variable changes with respect to the other.
+
+9.  What are the disadvantages of the linear regression model?
+   
+   One of the most significant demerits of the linear model is that it is sensitive and dependent on the outliers.
+   It can affect the overall result. Another notable demerit of the linear model is overfitting. 
+   Similarly, underfitting is also a significant disadvantage of the linear model.
+ 
