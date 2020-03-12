@@ -1,0 +1,14 @@
+Agenda - 12032020
+-----------------------
+1. Main Concepts of OOPs:
+   1. Abstraction
+   2. Encapsulation
+   3. Inheritance : 
+      1. Single Inheritance
+	  2. Multiple Inheritance
+	  3. Multi-Level Inheritance
+   4. Polymorphism
+   5. Overriding Method
+   6. super(class,instance).__init__()
+   7. Getter and Setter Methods
+   
